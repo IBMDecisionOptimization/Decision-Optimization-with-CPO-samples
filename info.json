@@ -1,0 +1,9 @@
+{
+	"provider": ["IBM"],
+	"name":  "Decision Optimisation with CPO samples" ,
+	"model": [ "CPO"],
+	"development": [ "" ],
+	"category": [ "MODELING" ],
+	"industry": [ "Operational research" ],
+	"abstract": “Optimisation models for solution with CP Optimiser using DOcplexcloud."
+}
